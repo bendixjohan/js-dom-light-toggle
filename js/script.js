@@ -1,3 +1,4 @@
+"use strict";
 // Husk fra dag 1: skriv "use strict" herunder
 
 
@@ -22,3 +23,4 @@ function onBulb() {
 lightOn.addEventListener("click", onBulb);
 
 // Skriv selv koden, der lytter efter klik på "off"-knappen (lightOff) og kører din offBulb-funktion, når der klikkes
+
